@@ -59,12 +59,12 @@ export const metadata = {
     title: "Hansaria Food Private Limited",
     description: "Premium food products delivered with trust and excellence.",
     images: ["/og-image.png"],
-    creator: "@developer_eye",
+    creator: "@santude1997",
   },
 
   icons: {
     icon: "/favicon.ico",
-    apple: "/apple-touch-icon.png",
+    apple: "/icons/apple-touch-icon.png",
   },
 
   alternates: {
